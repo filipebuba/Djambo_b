@@ -1,0 +1,8 @@
+{
+  "name": "DJambo",
+  "description": "A revolutionary anti-discrimination restaurant app powered by Gemini 3. Features accessible ordering, custom dish creation, and universal translation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
